@@ -1,12 +1,65 @@
-# React + Vite
+# 🚀 CryptoVault Pro — Crypto Tracker Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![CryptoVault Pro Banner]
 
-Currently, two official plugins are available:
+CryptoVault Pro is a modern, responsive, and visually stunning cryptocurrency landing page built with **React**, **Tailwind CSS**, and **Framer Motion**. It fetches real-time crypto prices from the **CoinGecko API** and presents live market data with sleek animations and a professional UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React.js (with Hooks)
+- 🎨 Tailwind CSS
+- 🎞️ Framer Motion
+- 🔗 CoinGecko Public API
+- 📦 Lucide Icons
+
+---
+
+## ✨ Features
+
+- ✅ Real-time cryptocurrency price, market cap, and volume tracking
+- 📉 24hr price change indicators with up/down icons
+- 🧠 Fully responsive design (mobile-first)
+- 🌙 Dark-themed professional layout
+- 📊 Stats, feature highlights, and CTA sections
+- 🎥 Animated with Framer Motion for smooth transitions
+- 🧪 Fallback data support if API fails
+
+---
+
+## 📦 Installation
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/yourusername/cryptotracker.git
+cd cryptotracker
+```
+
+---
+🔗 Live Demo
+🌐 [](https://cryptotracker00.netlify.app/)
+
+---
+
+**Future Improvements (Planned for Full-Stack Version)**
+-User authentication (JWT + MongoDB)
+
+-Personal portfolios and watchlists
+
+-Mock trading and transaction history
+
+-Admin dashboard with analytics
+
+-Real-time data via WebSocket
+
+-Currency selector (USD/INR/EUR)
+
+---
+
+**⭐️ Support & Feedback**
+If you like this project, give it a ⭐ on GitHub and share your feedback!
+Feel free to open issues or submit pull requests for improvements.
+
+
