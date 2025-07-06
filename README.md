@@ -59,4 +59,4 @@ cd cryptotracker
 **⭐️ Support & Feedback**
 If you like this project, give it a ⭐ on GitHub and share your feedback!
 Feel free to open issues or submit pull requests for improvements.
-.......
+
