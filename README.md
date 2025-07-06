@@ -1,7 +1,5 @@
 # 🚀 CryptoVault Pro — Crypto Tracker Landing Page
 
-![CryptoVault Pro Banner]
-
 CryptoVault Pro is a modern, responsive, and visually stunning cryptocurrency landing page built with **React**, **Tailwind CSS**, and **Framer Motion**. It fetches real-time crypto prices from the **CoinGecko API** and presents live market data with sleek animations and a professional UI.
 
 ---
@@ -39,7 +37,7 @@ cd cryptotracker
 
 ---
 🔗 Live Demo
-🌐 [](https://cryptotracker00.netlify.app/)
+🌐 [Cryptotracker](https://cryptotracker00.netlify.app/)
 
 ---
 
