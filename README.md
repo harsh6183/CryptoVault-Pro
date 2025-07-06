@@ -37,7 +37,7 @@ cd cryptotracker
 
 ---
 🔗 Live Demo
-🌐 [Cryptotracker](https://cryptotracker00.netlify.app/)
+🌐 [CryptoVault-Pro](https://cryptovault-pro.netlify.app/)
 
 ---
 
